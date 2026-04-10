@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Naman-agarwal1
 
-<!--
-**Naman-agarwal1/Naman-agarwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Final year student
+- Interested in Data Structures, Backend Development, and Problem Solving
+- Working on projects like Smart Bus Tracking System and Skill Gap Analyzer
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+Java
+C++
+JavaScript
+
+### Web Development
+HTML
+CSS
+Node.js
+
+### Tools & Platforms
+Git
+GitHub
+VS Code
+
+## GitHub Stats
+
+Naman's GitHub stats
+
+Top Languages
+
+## Connect with Me
+www.linkedin.com/in/
+naman-agarwal-5a8a3b30a
+
